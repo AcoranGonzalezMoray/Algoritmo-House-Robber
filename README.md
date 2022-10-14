@@ -12,5 +12,6 @@ Input:
 
 Output:
 ```
-[3, 10, 10, 11, 12] (Al recorrer desde el final vemos que casas eligió el ladrón)
+12
+[2,5]
 ```
